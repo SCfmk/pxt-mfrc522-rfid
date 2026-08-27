@@ -1,0 +1,15 @@
+{
+  "name": "mfrc522-p10",
+  "version": "0.0.1",
+  "description": "MFRC522 RFID extension for BBC micro:bit using P10 as SPI chip select.",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true,
+  "supportedTargets": [
+    "microbit"
+  ]
+}

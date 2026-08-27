@@ -1,0 +1,5 @@
+built/
+node_modules/
+.yotta.json
+pxt_modules/
+.DS_Store
