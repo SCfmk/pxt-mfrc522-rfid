@@ -1,8 +1,8 @@
-# MFRC522 RFID for micro:bit — P10 version
+# MFRC522 RFID for micro:bit — P0 version
 
 This is a MakeCode extension for the MFRC522 RFID reader.
 
-It is the same implementation as the supplied MFRC522 extension, except that the SPI chip-select / SS pin has been changed from **P16** to **P10**.
+It is the same implementation as the supplied MFRC522 extension, except that the SPI chip-select / SS pin has been changed from **P16** to **P0**.
 
 ## Pin assignment
 
